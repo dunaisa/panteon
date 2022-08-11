@@ -1,0 +1,17 @@
+.info-advantage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding-bottom: 21px;
+  user-select: none;  
+
+  &:hover {
+    // animation-name: move;
+    // animation-direction: alternate;
+    // animation-timing-function: linear;
+    // animation-duration: 0.5s;
+    border-bottom: 2px solid #F7931E;
+  }
+}
+

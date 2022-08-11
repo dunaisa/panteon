@@ -1,0 +1,36 @@
+@import url(./vendor/normalize.css);
+
+@import url(./blocks/page/page.scss);
+
+@import url(./blocks/header/header.scss);
+@import url(./blocks/header/__links/header__links.scss);
+@import url(./blocks/header/__link/header__link.scss);
+@import url(./blocks/header/__link-icon/header__link-icon.scss);
+@import url(./blocks/header/__arrow/header__arrow.scss);
+
+@import url(./blocks/header-top/header-top.scss);
+@import url(./blocks/header-top/__logo/header-top__logo.scss);
+@import url(./blocks/header-top/__nav/header-top__nav.scss);
+@import url(./blocks/header-top/__nav-link/header-top__nav-link.scss);
+@import url(./blocks/header-top/__tel/header-top__tel.scss);
+
+@import url(./blocks/header-bottom/header-bottom.scss);
+@import url(./blocks/header-bottom/__title/header-bottom__title.scss);
+@import url(./blocks/header-bottom/__subtitle/header-bottom__subtitle.scss);
+@import url(./blocks/header-bottom/__btn/header-bottom__btn.scss);
+
+@import url(./blocks/info/info.scss);
+@import url(./blocks/info-lifestyle/info-lifestyle.scss);
+@import url(./blocks/info-lifestyle/__photo/info-lifestyle__photo.scss);
+@import url(./blocks/info-lifestyle/__photo-gym/info-lifestyle__photo-gym.scss);
+@import url(./blocks/info-lifestyle/__content/info-lifestyle__content.scss);
+@import url(./blocks/info-lifestyle/__content/info-lifestyle__content.scss);
+@import url(./blocks/info-lifestyle/__heading/info-lifestyle__heading.scss);
+@import url(./blocks/info-lifestyle/__text/info-lifestyle__text.scss);
+@import url(./blocks/info-lifestyle/__btn/info-lifestyle__btn.scss);
+@import url(./blocks/info-lifestyle/__btn-text/info-lifestyle__btn-text.scss);
+
+@import url(./blocks/info-advantages/info-advantages.scss);
+@import url(./blocks/info-advantage/info-advantage.scss);
+@import url(./blocks/info-advantage/__icon/info-advantage__icon.scss);
+@import url(./blocks/info-advantage/__text/info-advantage__text.scss);
