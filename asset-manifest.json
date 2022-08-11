@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25a580e5.css",
+    "main.js": "/static/js/main.92f71c7a.js",
+    "static/js/787.ca2966df.chunk.js": "/static/js/787.ca2966df.chunk.js",
+    "static/media/main-photo.png": "/static/media/main-photo.9647494653160efaba84.png",
+    "static/media/info-photo.png": "/static/media/info-photo.2917427999a489f2d665.png",
+    "static/media/info-photo-gym.png": "/static/media/info-photo-gym.2c3e4b523ec48976afef.png",
+    "static/media/logo-header.svg": "/static/media/logo-header.c85e74dcc0b05d8b9aec27f01ef856a4.svg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.19c8cdd59d093899add4fc19b5b7d2be.svg",
+    "static/media/vk-icon.svg": "/static/media/vk-icon.3a78d96afbfa64feb6fc06bb723c37a6.svg",
+    "static/media/header-arrow.svg": "/static/media/header-arrow.8a79b997f7286f8c6e30fc7f8a7a98b9.svg",
+    "index.html": "/index.html",
+    "main.25a580e5.css.map": "/static/css/main.25a580e5.css.map",
+    "main.92f71c7a.js.map": "/static/js/main.92f71c7a.js.map",
+    "787.ca2966df.chunk.js.map": "/static/js/787.ca2966df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a580e5.css",
+    "static/js/main.92f71c7a.js"
+  ]
+}
