@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.25a580e5.css",
-    "main.js": "/static/js/main.92f71c7a.js",
-    "static/js/787.ca2966df.chunk.js": "/static/js/787.ca2966df.chunk.js",
-    "static/media/main-photo.png": "/static/media/main-photo.9647494653160efaba84.png",
-    "static/media/info-photo.png": "/static/media/info-photo.2917427999a489f2d665.png",
-    "static/media/info-photo-gym.png": "/static/media/info-photo-gym.2c3e4b523ec48976afef.png",
-    "static/media/logo-header.svg": "/static/media/logo-header.c85e74dcc0b05d8b9aec27f01ef856a4.svg",
-    "static/media/instagram-icon.svg": "/static/media/instagram-icon.19c8cdd59d093899add4fc19b5b7d2be.svg",
-    "static/media/vk-icon.svg": "/static/media/vk-icon.3a78d96afbfa64feb6fc06bb723c37a6.svg",
-    "static/media/header-arrow.svg": "/static/media/header-arrow.8a79b997f7286f8c6e30fc7f8a7a98b9.svg",
-    "index.html": "/index.html",
-    "main.25a580e5.css.map": "/static/css/main.25a580e5.css.map",
-    "main.92f71c7a.js.map": "/static/js/main.92f71c7a.js.map",
-    "787.ca2966df.chunk.js.map": "/static/js/787.ca2966df.chunk.js.map"
+    "main.css": "/panteon/static/css/main.d8de9de9.css",
+    "main.js": "/panteon/static/js/main.cb887f56.js",
+    "static/js/787.ca2966df.chunk.js": "/panteon/static/js/787.ca2966df.chunk.js",
+    "static/media/main-photo.png": "/panteon/static/media/main-photo.9647494653160efaba84.png",
+    "static/media/info-photo.png": "/panteon/static/media/info-photo.2917427999a489f2d665.png",
+    "static/media/info-photo-gym.png": "/panteon/static/media/info-photo-gym.2c3e4b523ec48976afef.png",
+    "static/media/logo-header.svg": "/panteon/static/media/logo-header.c85e74dcc0b05d8b9aec27f01ef856a4.svg",
+    "static/media/instagram-icon.svg": "/panteon/static/media/instagram-icon.19c8cdd59d093899add4fc19b5b7d2be.svg",
+    "static/media/vk-icon.svg": "/panteon/static/media/vk-icon.3a78d96afbfa64feb6fc06bb723c37a6.svg",
+    "static/media/header-arrow.svg": "/panteon/static/media/header-arrow.8a79b997f7286f8c6e30fc7f8a7a98b9.svg",
+    "index.html": "/panteon/index.html",
+    "main.d8de9de9.css.map": "/panteon/static/css/main.d8de9de9.css.map",
+    "main.cb887f56.js.map": "/panteon/static/js/main.cb887f56.js.map",
+    "787.ca2966df.chunk.js.map": "/panteon/static/js/787.ca2966df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25a580e5.css",
-    "static/js/main.92f71c7a.js"
+    "static/css/main.d8de9de9.css",
+    "static/js/main.cb887f56.js"
   ]
 }
